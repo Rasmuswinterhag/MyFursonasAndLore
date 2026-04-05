@@ -9,7 +9,7 @@ Ref sheet
 ![[Zlime_base_by_GothicGuttz.png]]
 ### Zlime, The kitty:
 
-Zlime is a transformed kitty. They transformed by getting [[Liquid]] into their blood. Before they were transformed they lived as a normal cat in their owners place. It was nice to be taken care of and to get fed and everything. They were really sad and disappointed when they couldn't come back to their family after being anthropomorphized. Luckily [[Milo]] helped them learn to Read, Write and Speak, and also got them into [[Furry town]] where he now lives
+Zlime is a transformed kitty. They transformed by getting [[Liquid]] into their blood. Before they were transformed they lived as a normal cat in their owners place. It was nice to be taken care of and to get fed and everything. They were really sad and disappointed when they couldn't come back to their family after being anthropomorphized. Luckily [[Milo]] helped them learn to Read, Write and Speak, and also got them into [[Furry town]] where they now live
 
 ## Abilities:
 

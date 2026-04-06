@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My fursonas lores/Characters/Zlime.md",
+                "file": "My fursonas lores/Characters/Binary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zlime"
+              "title": "Binary"
+            }
+          },
+          {
+            "id": "e99f088e98927125",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,16 +194,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "ffe0d35cc1321b78",
+  "active": "e99f088e98927125",
   "lastOpenFiles": [
+    "My fursonas lores/Characters/Binary.md",
+    "My fursonas lores/Stories/Binary Arrives.md",
+    "My fursonas lores/Characters/Zlime.md",
+    "My fursonas lores/Characters/Milo.md",
+    "My fursonas lores/Stories/Zlime's Transformation.md",
     "README.md",
     "My fursonas lores/Stories/The transformation.md",
     "Resources/CatDoingCatThings.gif",
     "My fursonas lores/Stories/Zlime backstory comic Mockup.png",
-    "My fursonas lores/Characters/Zlime.md",
     "My fursonas lores/Characters/Matt.md",
     "My fursonas lores/Characters/Liquid.md",
-    "My fursonas lores/Characters/Binary.md",
     "My fursonas lores/Locations/Furry town.md",
     "MyFursonasAndLore",
     "Art/Binary/Binary_Base_By_CryptidCatCreations.png",
@@ -207,7 +221,6 @@
     "Art/Zlime/Commissions/Zlime_s.png",
     "Art/Zlime/Commissions/Zlime_w_Tag.png",
     "Art/Zlime/Commissions/Zlime_no_BG.png",
-    "My fursonas lores/Characters/Milo.md",
     "[[Zlime.md",
     "Sonas/Zlime/Lore/Story/Untitled.md",
     "My fursonas lores/Locations",

@@ -1,4 +1,4 @@
-#Story
-[[Zlime]] and some other people of [[Furry town]] looked up at the sky and saw a streak going across the sky. It seems that something is coming in, closer and closer to earth. When it landed it seemed that it wasn't too far from [[Furry town]], so they sent out a group to check it out, it didn't seem like a crash landing.
+# Binary Arrives
+[Zlime]({{ site.baseurl }}\Lore\Fursonas\Zlime) and some other people of [[Furry town]({{ site.baseurl }}\Lore\Locations\FurryTown)] looked up at the sky and saw a streak going across the sky. It seems that something is coming in, closer and closer to earth. When it landed it seemed that it wasn't too far from [Furry town], so they sent out a group to check it out, it didn't seem like a crash landing.
 
-A while later the town had gathered when the group came back, but they weren't alone. They came back with what looked like a robot but not quite. The robot-maybe-not-robot introduced themselves as [[Binary]] and they said they are a so called protogen, apparently they are part mechanical and part biological.
+A while later the town had gathered when the group came back, but they weren't alone. They came back with what looked like a robot but not quite. The robot-maybe-not-robot introduced themselves as [Binary]({{ site.baseurl }}\Lore\Fursonas\Binary) and they said they are a so called protogen, apparently they are part mechanical and part biological.

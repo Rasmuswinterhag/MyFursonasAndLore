@@ -1,4 +1,5 @@
-#Character
+# Liquid
+
 \[Name\] is a liquid that would go into the blood of a patient and repair internal bleedings and other damages by softening up the patients damaged parts to a viscous liquid then bringing them together to then turn back to normal. It was created by [[Matt]], a scientist working on a private unregulated project in his workplace laboratory.
 
 To know how the body should be put together it used some of the patient's blood to “know” the correct position of everything through the DNA in the blood.

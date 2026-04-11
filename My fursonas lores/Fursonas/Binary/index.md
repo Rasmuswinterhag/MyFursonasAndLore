@@ -1,4 +1,4 @@
-#Character #Fursona
+# Binary
 
 | Pronouns  | Height | Species  |
 | --------- | ------ | -------- |

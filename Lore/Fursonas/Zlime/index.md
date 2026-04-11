@@ -5,7 +5,7 @@
 | They/Them | 170 cm | Liquid Cat |
 
 ### Ref sheet
-<img src="/Art/Zlime/Refs/Zlime_base_by_GothicGuttz.png" width="100%"/>
+<img src="{{ site.baseurl }}/Art/Zlime/Refs/Zlime_base_by_GothicGuttz.png" width="100%"/>
 
 ### Zlime, The kitty:
 

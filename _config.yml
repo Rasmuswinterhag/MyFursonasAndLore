@@ -5,3 +5,4 @@ plugins:
 title: Zlime fursonas and lore
 description: This page contains my fursonas and the lore ive written for them.
 show_downloads: false
+baseurl: "/MyFursonasAndLore"

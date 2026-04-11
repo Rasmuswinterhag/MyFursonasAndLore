@@ -5,7 +5,8 @@
 | They/Them | 170 cm | Protogen |
 
 ### Ref sheet:
-![[Binary_Base_By_CryptidCatCreations.png|403]]
+<img src="{{ site.baseurl }}\Art\Binary\Binary_Base_By_CryptidCatCreations.png" width="100%"/>
+
 The binary on the shoulder-pads, visor-"wings", and hip-pads scrolls downwards.
 
 ### Binary, The Protogen

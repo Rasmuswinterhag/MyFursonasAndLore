@@ -1,5 +1,5 @@
-[The Liquid](Lore\Characters\Liquid#)
+[The Liquid](Liquid#)
 
-[Matt](Lore\Characters\Matt#)
+[Matt](Matt#)
 
-[Milo](Lore\Characters\Milo#)
+[Milo](Milo#)

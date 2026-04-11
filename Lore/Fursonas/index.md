@@ -1,3 +1,3 @@
-[Zlime](Lore\Fursonas\Zlime#)
+[Zlime](Zlime#)
 
-[Binary](Lore\Fursonas\Binary#)
+[Binary](Binary#)

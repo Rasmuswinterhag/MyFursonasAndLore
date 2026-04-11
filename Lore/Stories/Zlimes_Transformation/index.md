@@ -1,6 +1,6 @@
 #Story
 
-[[Zlime]] gets into the laboratory that [[Matt]] works at while out of their owners house for evening ✨cat activities✨ and while in there [[Zlime]] ![[CatDoingCatThings.gif|141]] a flask of [[Liquid]] (as you do) and it breaks when it hits the floor. The curious cat decides to investigate the [[Liquid]] that spilled out over the floor and jumps down from the counter, but as they sniff and investigate they cut themselves on the glass shards on the floor and some of it absorbs into them.
+[[Zlime]] gets into the laboratory that [[Matt]] works at while out of their owners house for evening ✨cat activities✨ and while in there [[Zlime]] <img src="Resources\CatDoingCatThings.gif"/> a flask of [[Liquid]] (as you do) and it breaks when it hits the floor. The curious cat decides to investigate the [[Liquid]] that spilled out over the floor and jumps down from the counter, but as they sniff and investigate they cut themselves on the glass shards on the floor and some of it absorbs into them.
 
 As the scientist turns around from the noise, he finds a cat touching his [[Liquid]] that's now all over the floor. He quickly tries to take the cat and lock it in an unused storage room to continue experimenting on it later and hide it from his coworkers. The cat slowly grows in his hands and it's getting a little slimy.
 

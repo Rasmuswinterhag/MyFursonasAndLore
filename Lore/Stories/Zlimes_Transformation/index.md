@@ -1,6 +1,6 @@
 #Story
 
-[[Zlime]] gets into the laboratory that [[Matt]] works at while out of their owners house for evening ✨cat activities✨ and while in there [[Zlime]] <img src="Resources\CatDoingCatThings.gif"/> a flask of [[Liquid]] (as you do) and it breaks when it hits the floor. The curious cat decides to investigate the [[Liquid]] that spilled out over the floor and jumps down from the counter, but as they sniff and investigate they cut themselves on the glass shards on the floor and some of it absorbs into them.
+[[Zlime]] gets into the laboratory that [[Matt]] works at while out of their owners house for evening ✨cat activities✨ and while in there [[Zlime]] <img src="CatDoingCatThings.gif" width="175"/> a flask of [[Liquid]] (as you do) and it breaks when it hits the floor. The curious cat decides to investigate the [[Liquid]] that spilled out over the floor and jumps down from the counter, but as they sniff and investigate they cut themselves on the glass shards on the floor and some of it absorbs into them.
 
 As the scientist turns around from the noise, he finds a cat touching his [[Liquid]] that's now all over the floor. He quickly tries to take the cat and lock it in an unused storage room to continue experimenting on it later and hide it from his coworkers. The cat slowly grows in his hands and it's getting a little slimy.
 
@@ -19,3 +19,7 @@ On their way to the kind person’s apartment he introduced himself further. He 
 [[Zlime]] joined [[Milo]] in their apartment and over the next couple of weeks the kind person helped [[Zlime]] learn to speak, read and write. It went surprisingly smoothly to learn. [[Milo]] told them that there are more anthropomorphic animals around the world in small secret towns that not many people know about. They live there because anthros are seen as monsters by many. But that he could help [[Zlime]] get into one of these towns since he works in one that's not too far away.
 
 After a while and learning how to handle themselves from [[Milo]], he drove them to [[Furry town]] where he works. It felt very good to be accepted into a community that were like them. [[Zlime]] still keeps occasional contact with [[Milo]].
+
+
+# Badly drawn comic version
+<img src="Zlime_backstory_comic_Mockup.png" width="100%"/>

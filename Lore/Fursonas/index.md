@@ -1,5 +1,3 @@
-Theese are my fursonas
-
-[Zlime](Zlime#)
-
-[Binary](Binary#)
+Theese are my fursonas  
+[Zlime](Zlime#)  
+[Binary](Binary#)  

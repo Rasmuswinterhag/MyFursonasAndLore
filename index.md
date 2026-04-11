@@ -2,9 +2,10 @@
 
 hiiiii
 
-This is a work in progress site, come back later!
+This is a work in progress site, come back later for updates!
 
 [Fursonas](Lore\Fursonas#)  
-[Characters](Lore\Characters#)
+[Stories](Lore\Stories#)  
+[Characters](Lore\Characters#)  
 
 ---

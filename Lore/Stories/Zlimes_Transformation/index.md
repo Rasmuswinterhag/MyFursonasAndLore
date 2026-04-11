@@ -1,4 +1,4 @@
-#Story
+# Zlime's Transformation
 
 [[Zlime]] gets into the laboratory that [[Matt]] works at while out of their owners house for evening ✨cat activities✨ and while in there [[Zlime]] <img src="CatDoingCatThings.gif" width="175"/> a flask of [[Liquid]] (as you do) and it breaks when it hits the floor. The curious cat decides to investigate the [[Liquid]] that spilled out over the floor and jumps down from the counter, but as they sniff and investigate they cut themselves on the glass shards on the floor and some of it absorbs into them.
 

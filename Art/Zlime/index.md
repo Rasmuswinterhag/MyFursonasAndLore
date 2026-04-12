@@ -1,7 +1,7 @@
 # Zlime
 
 <img src="Refs\Zlime_base_by_GothicGuttz.png" width="100%"/>
-Ref drawn by me, Base drawn by GothicGuttz
+Ref drawn by me, Base drawn by [GothicGuttz](https://www.furaffinity.net/view/54246121/)
 
 ---
 
@@ -15,6 +15,6 @@ Ref drawn by me, Base drawn by GothicGuttz
     <td><img src="Commissions\Zlime_s.png"/></td>
   </tr>
 </table>
-Drawn by @Xyhfer_arts on tiktok!
+Drawn by [@Xyhfer_arts](https://www.tiktok.com/@xyhfer_arts) on tiktok!
 
 ---

@@ -7,9 +7,10 @@ If you have any suggestions write them to me, its fun to talk about!
 If a name has [brackets] around it, the name is not final and will change!
 
 ### What do you want to take a look at?
-My [Fursonas](Lore\Fursonas#).  
-The [Art](Art#) of my fursonas.  
-[Stories](Lore\Stories#) about the world im creating around my fursonas.  
-The [Characters](Lore\Characters#) in the stories.
+
+[Fursonas](Lore\Fursonas#) - My silly creatures :3  
+[Art](Art#) - Art I have created of my fursonas.  
+[Stories](Lore\Stories#) - Stories about the world and setting my fursonas are in.  
+[Characters](Lore\Characters#) - The characters that take place in the stories.  
 
 ---

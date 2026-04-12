@@ -1,14 +1,15 @@
 # Welcome!
 
-hiiiii
+Hello, this page is so you can easily see my fursonas and their lore and stories!
+The page is still a work in progress, and more stuff will probably get added in the future!
+If you have any suggestions write them to me, its fun to talk about!
 
-This is a work in progress site, come back later for updates!
+If a name has [brackets] around it, the name is not final and will change!
 
-If a name has [brackets] around it, the name will change in the future!
-
-[Fursonas](Lore\Fursonas#)  
-[Art](Art#)  
-[Stories](Lore\Stories#)  
-[Characters](Lore\Characters#)  
+### What do you want to take a look at?
+My [Fursonas](Lore\Fursonas#).  
+The [Art](Art#) of my fursonas.  
+[Stories](Lore\Stories#) about the world im creating around my fursonas.  
+The [Characters](Lore\Characters#) in the stories.
 
 ---

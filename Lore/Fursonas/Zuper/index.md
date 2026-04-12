@@ -1,0 +1,1 @@
+The evil/horny version of [Zlime]({{ site.baseurl }}\Lore\Fursonas\Zlime) the main sona

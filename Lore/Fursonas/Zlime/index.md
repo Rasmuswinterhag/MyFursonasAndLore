@@ -9,13 +9,13 @@
 
 ### Zlime, The kitty:
 
-Zlime is a transformed kitty. They transformed by getting [[Liquid]({{ site.baseurl }}\Lore\Characters\Liquid)] into their blood. Before they were transformed they lived as a normal cat in their owners place. It was nice to be taken care of and to get fed and everything. They were really sad and disappointed when they couldn't come back to their family after being anthropomorphized. Luckily [Milo]({{ site.baseurl }}\Lore\Characters\Milo) helped them learn to Read, Write and Speak, and also got them into [[Furry town]({{ site.baseurl }}\Lore\Locations\FurryTown)] where they now live.
+Zlime is a transformed kitty. They transformed by getting [RejuveNaite]({{ site.baseurl }}\Lore\Characters\RejuveNaite) into their blood. Before they were transformed they lived as a normal cat in their owners place. It was nice to be taken care of and to get fed and everything. They were really sad and disappointed when they couldn't come back to their family after being anthropomorphized. Luckily [Milo]({{ site.baseurl }}\Lore\Characters\Milo) helped them learn to Read, Write and Speak, and also got them into [[Furry town]({{ site.baseurl }}\Lore\Locations\FurryTown)] where they now live.
 
 ## Abilities:
 
 * Can turn into a liquid that is a little viscous.  
-* Super stretchy due to the being part [Liquid].  
-* Very durable due to being part [Liquid].
+* Super stretchy due to the being part RejuveNaite.  
+* Very durable due to being part RejuveNaite.
 * Very quick healing/recombining.  
-* Since the [Liquid] was made to recombine to repair the body, if part of Zlime gets separated the liquid cat wants to clump together/recombine with the biggest, closest other part of the liquid cat.  
-* Can’t separate or reshape themselves purposefully since the [Liquid] wants to turn back to its normal state which is anthropomorphic cat but can be squeezed into small spaces.
+* Since the RejuveNaite was made to recombine and repair the body, if part of Zlime gets separated the liquid cat wants to clump together/recombine with the biggest, closest other part of the liquid cat.  
+* Can’t separate or reshape themselves purposefully since the RejuveNaite wants to turn back to its normal state which is anthropomorphic cat but can be squeezed into small spaces.

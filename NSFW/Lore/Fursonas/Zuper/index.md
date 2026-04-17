@@ -8,7 +8,7 @@ Still very much in the idea stage lol
 | They/Them | 170 cm | Liquid Cat |
 
 ### Ref sheet
-<img src="{{ site.baseurl }}/Art/Zlime/Refs/NSFW_Zlime_base_by_GothicGuttz.png" width="100%"/>
+<img src="{{ site.baseurl }}/Art/Zuper/Refs/Zuper.png" width="100%"/>
 
 ### Zuper, The goober:
 
@@ -16,4 +16,4 @@ The evil/horny version of [Zlime]({{ site.baseurl }}\Lore\Fursonas\Zlime) the ma
 
 ## Abilities:
 
-Same as Zlime, same body soo
+Same as Zlime, same body soo...

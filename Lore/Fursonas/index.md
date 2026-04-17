@@ -5,6 +5,5 @@
 
 [<img src= "{{ site.baseurl }}\Art\Binary\Binary_Base_By_CryptidCatCreations.png" width="10%">](Binary#)  
 [Binary](Binary#)  
-[Zuper](Zuper#)
 
 For art go [here]({{ site.baseurl }}\Art)!

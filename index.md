@@ -12,6 +12,6 @@ If a name has [brackets] around it, the name is not final and will change!
 [Art](Art#) - Art I have of my fursonas.  
 [Stories](Lore\Stories#) - Stories about the world and setting my fursonas are in.  
 [Characters](Lore\Characters#) - Significant characters that exsist in the stories.  
-[Locations](Lore\Locations#)
+[Locations](Lore\Locations#) - Significant locations that exsist in the stories.  
 
 ---

@@ -9,8 +9,9 @@ If a name has [brackets] around it, the name is not final and will change!
 ### What do you want to take a look at?
 
 [Fursonas](Lore\Fursonas#) - My silly creatures :3  
-[Art](Art#) - Art I have created of my fursonas.  
+[Art](Art#) - Art I have of my fursonas.  
 [Stories](Lore\Stories#) - Stories about the world and setting my fursonas are in.  
-[Characters](Lore\Characters#) - The characters that take place in the stories.  
+[Characters](Lore\Characters#) - Significant characters that exsist in the stories.  
+[Locations](Lore\Locations#)
 
 ---

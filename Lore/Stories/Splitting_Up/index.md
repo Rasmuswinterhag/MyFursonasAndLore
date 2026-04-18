@@ -1,5 +1,5 @@
 # Splitting up!
-
+Very much in the Idea stage!!!
 ## Ideas
 
 Somehow you get split in two, the two parts get seperated and can't recombine. 

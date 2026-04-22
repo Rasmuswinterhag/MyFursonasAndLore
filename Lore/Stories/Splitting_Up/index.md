@@ -9,6 +9,7 @@ One version, the one with the lesser part of the brain inherits the cheeky horny
 
 ### How they get split
 - theyre at a resturant and their sign is a big knife that falls down and splits me?
+- Car accident, something like someone hits a tree that falls on Zlime and splits them
 
 ### How does the splitting apart thing work
 - The personality was like split up, so always part of Zlime, one part Horny goober kitty, Other just "Normal" kitty

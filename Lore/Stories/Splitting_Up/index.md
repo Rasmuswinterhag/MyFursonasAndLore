@@ -25,7 +25,7 @@ One version, the one with the lesser part of the brain inherits the cheeky horny
 
 ## Story
 *[Zlime]({{ site.baseurl }}\Lore\Fursonas\Zlime)'s POV*  
-5 minutes left, I need to leave now to catch the tram to go into town, I might miss it. I run to the tram stop and see the tram arriving. I pick up the pace a bit more and I try to jump in just before the doors close. I miss and land in the door right as it shuts on me. I get cut in half, but im surprisingly fine. I'm smaller but I feel fine. I look out the window and I see my other half reshape into what looks like another me. But the colors are off, something weird is going on but the tram starts to leave the platform and Zlime gets off at the next stop to go back to his other body. While on the train they does notice that they dont run as much on emotions as they did before, he feels much more calculated.
+5 minutes left, I need to leave now to catch the tram to go into town, I might miss it. I run to the tram stop and see the tram arriving. I pick up the pace a bit more and I try to jump in just before the doors close. I miss and land in the door right as it shuts on me. I get cut in half, but im surprisingly fine. I'm smaller but I feel fine. I look out the window and I see my other half reshape into what looks like another me. But the colors are off, something weird is going on but the tram starts to leave the platform and Zlime gets off at the next stop to go back to their other body. While on the train they does notice that they dont run as much on emotions as they did before, they feels much more calculated.
 
 *3rd person*
 

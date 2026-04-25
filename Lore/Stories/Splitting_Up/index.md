@@ -24,9 +24,9 @@ One version, the one with the lesser part of the brain inherits the cheeky horny
     - im thinking that the split maybe wouldnt be much brain in the other half? so that it would be mostly not thinking before doing in Zuper
 
 ## Story
-*Zlime's POV*  
-5 minutes left, I need to leave now to catch the tram to _____, I might miss it. I run to the tram stop and see the tram arriving. I pick up the pace a bit more and I try to jump in just before the doors close. I miss and land in the door right as it shuts on me. I get cut in half, but im surprisingly fine. I'm smaller but I feel fine. I look out the window and I see my other half reshape into what looks like another me. But the colors are off, something weird is going on but the tram starts to go 
+*[Zlime]({{ site.baseurl }}\Lore\Fursonas\Zlime)'s POV*  
+5 minutes left, I need to leave now to catch the tram to go into town, I might miss it. I run to the tram stop and see the tram arriving. I pick up the pace a bit more and I try to jump in just before the doors close. I miss and land in the door right as it shuts on me. I get cut in half, but im surprisingly fine. I'm smaller but I feel fine. I look out the window and I see my other half reshape into what looks like another me. But the colors are off, something weird is going on but the tram starts to leave the platform and Zlime gets off at the next stop to go back to his other body. While on the train they does notice that they dont run as much on emotions as they did before, he feels much more calculated.
 
 *3rd person*
 
-Zlime's other half reshapes to something similar to Zlime, but the colours are diffrent, now being red and black. They arent quite the same mentally either, They run much more on instincts and bodily urges.
+Zlime's other half reshapes to something similar to Zlime, but the colours are diffrent, now being red and black. They arent quite the same mentally either, They run much more on instincts and bodily urges. [Zuper]({{ site.baseurl }}\Lore\Fursonas\Zuper) sits up on the platform and looks at the tram going further and further away. 

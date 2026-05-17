@@ -23,5 +23,5 @@ Drawn by [@Xyhfer_arts](https://www.tiktok.com/@xyhfer_arts) on tiktok!
 Boykisser Zlime drawn by [@tenshiix_draws](https://www.instagram.com/tenshiix_draws/) on instagram, gifted to me by Dunnis!
 
 ---
-<img src="Commissions\BLACKMARCHH1_ICON FULL DETAILS_4 CHARACTERS.png" width="100%"/>
-Commission drawn by [CatMantis](https://linktr.ee/CatMantis), Features Blackmarchh, Trovy, Venus to have on our door for furfloat 2026
+<img src="Commissions\LOWQUALITY_BLACKMARCHH1_ICON FULL DETAILS_4 CHARACTERS.jpg" width="100%"/>
+Commission drawn by [CatMantis](https://linktr.ee/CatMantis), Features Blackmarchh, Trovy, Venus and Myself to have on our door for furfloat 2026

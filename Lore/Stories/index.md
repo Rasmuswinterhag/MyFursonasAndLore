@@ -1,3 +1,3 @@
 # Stories
 [Zlime's Transformation](Zlimes_Transformation#)  
-[Binary arrives](Binary_Arrives#)  
+[Binary's Escape](Binarys_Escape#)  

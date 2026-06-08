@@ -11,7 +11,7 @@ Looking out the window they saw a massive planet right in they but the thrusters
 
 [Zlime]({{ site.baseurl }}\Lore\Fursonas\Zlime) and some other people of [[Furry town]({{ site.baseurl }}\Lore\Locations\FurryTown)] looked up at the sky and saw a streak going across the sky. It seems that something is coming in, closer and closer to earth. When it landed it seemed that it wasn't too far from [Furry town], so they sent out a group to check it out, they guessed it was a meteorite.
 
-They found the supprisingly small crater and metal peices around. and in the crater looked like a small ship, but heavily damaged in the landing. 
+They found the supprisingly small crater and metal peices thrown around. when they looked in the crater they found what looked like a small ship, but heavily damaged in the crash. They hesitantly approched the wreckage and through the windshield they saw something they didnt recognize, it looked like a person, or a robot? or a cyborg? Whatever it is they are, the people try to break the window open, but to no avail, Space glass is very strong apparently. But the creature inside wakes up and presses a button that opens the front door.
 
 -
 -

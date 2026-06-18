@@ -11,3 +11,7 @@ The binary on the shoulder-pads, visor-"wings", and hip-pads scrolls downwards.
 
 ### Binary, The Protogen
 Binary was designed to be a hacker as a troop ready for cyber-war, made to create malware and other programs to help win or get information, but once managed to free their mind from partial stasis and roam free. They escaped their planet and arrived on earth and live in [[Furry town]({{ site.baseurl }}\Lore\Locations\FurryTown)]. Now they use their knowledge of computers and coding to make games and be tech support to their friends.
+
+## Abilities:
+
+* Has a built in program that can decrypt language so binary can learn by listening to enough.

@@ -1,3 +1,5 @@
+<link rel="icon" type="image/png" href="./favicon.png">
+
 # Welcome!
 
 Hello, this page is so you can easily see my fursonas and their lore and stories!
